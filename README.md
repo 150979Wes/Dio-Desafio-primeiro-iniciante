@@ -2,4 +2,4 @@
 Repositório Criado Para o Desafio do Projeto.
 
 ## Links úteis
-[Sintaxe Basica Markdown](https://github.com/150979Wes/Dio-Desafio-primeiro-iniciante)
+[Sintaxe Basica Markdown](https://www.markdownguide.org/cheat-sheet/#basic-syntax)
